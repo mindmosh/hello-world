@@ -1,2 +1,3 @@
 # hello-world
-Squirtle
+Squirtle - one of the starter Pokemon!
+
